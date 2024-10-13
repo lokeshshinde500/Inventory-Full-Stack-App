@@ -1,6 +1,7 @@
 Inventory Management API
 
-Frontend Deployment : https://legendary-baklava-3925d3.netlify.app/stock
+Frontend Deployment : https://legendary-baklava-3925d3.netlify.app
+
 Backend Deployment : https://inventory-app-backend-zma5.onrender.com
 
 This is a RESTful API built with Express.js for managing inventory items. It supports CRUD operations as well as bulk operations for importing and exporting inventory data using CSV files.
