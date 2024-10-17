@@ -1,4 +1,5 @@
 sorry my backend folder is not opening in github plz refer this repo 
+
 backend repo link : https://github.com/lokeshshinde500/Inventory-App-Backend
 
 Inventory Management API
